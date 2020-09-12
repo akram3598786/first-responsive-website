@@ -102,7 +102,7 @@ flex-direction: column;
 #home::before{
 content: "";
 position: absolute;
-background: url(/images/front-img4.jpg);
+background: url(./images/front-img4.jpg);
 opacity: 0.8;
 z-index: -1;
 height: 450px;
