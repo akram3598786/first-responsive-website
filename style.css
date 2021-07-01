@@ -26,19 +26,14 @@ background-color: lightblue;
 opacity: 0.8;
 
 } */
+
 .logo1{
 size: 100px;
 height: 48px;
 width: 45px;
-
-
 padding-left: 35px;
-
 position: sticky;
-
-
 }
-
 
 .navbar ul{
 color: white;
@@ -50,16 +45,7 @@ text-decoration: none;
 list-style: none;
 flex-direction: row;
 justify-content: center;
-
-/* background-color: #A52A2A; */
 font-family: 'Baloo Da 2', cursive;
-
-
-
-
-
-/* margin-left: 10px; */
-
 }
 
 .navbar ul li a{
@@ -82,7 +68,6 @@ color: white;
 font-family: 'Baloo Da 2', cursive;
 
 }
-
 
 
 /* Home CSS */
@@ -113,13 +98,13 @@ margin-top: -28px;
 }
 
 #home  p{
-
 margin: -25px;
 padding: 0px 10px;
 text-align: center;
 color: white;
 font-size: 22px;
 }
+
 #heading{
 font-style: italic;
 color: white;
@@ -174,6 +159,7 @@ border-radius: 5px;
 margin-top: 26px;
 background-color: tomato;
 }
+
 .search-button:hover{
 background-color: black;
 color: white;
@@ -214,19 +200,17 @@ margin-bottom: 0px;
   }
 
 
-
 .send-button{
 width: 75px;
 
 border-radius: 5px red;
 }
+
 .send-button:hover{
 background-color: black;
 color: white;
 }
 
-
- 
 /* our services css */
 
 .services{
@@ -379,6 +363,3 @@ color: white;
     color: white;
     
 }
-
-
-
